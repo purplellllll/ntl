@@ -1,0 +1,50 @@
+{
+  "repository": "purplellllll/ntl",
+  "tag": "important-models-20261028",
+  "checkpoint_archive": "important_models_20261028.tar.gz",
+  "materials_archive": "training_materials_20261028.tar.gz",
+  "backbone": {
+    "bytes": 6073558092,
+    "sha256": "2d833ae29600b913e13d08851f14ce980d3450a3a1809ea0ad4faf5e94bac4c7"
+  },
+  "backbone_parts": [
+    "qwen3-8b-base-nf4.safetensors.part001",
+    "qwen3-8b-base-nf4.safetensors.part002",
+    "qwen3-8b-base-nf4.safetensors.part003",
+    "qwen3-8b-base-nf4.safetensors.part004"
+  ],
+  "assets": {
+    "important_models_20261028.tar.gz": {
+      "bytes": 582287531,
+      "sha256": "7433b8a4507715b3376e072362e7f574443aece13219d1a69059e0b22c1ce365"
+    },
+    "important_models_20261028.tar.gz.sha256": {
+      "bytes": 99,
+      "sha256": "be4bc0f778af04c8a668bda77d7c313627bd499fbace0c38b625ad599c0eeb73"
+    },
+    "training_materials_20261028.tar.gz": {
+      "bytes": 74984375,
+      "sha256": "59155d0885b3e3d2588fc55de76e247a75ddaf629d0876f7a1a6ebf664f11afa"
+    },
+    "restore_release.py": {
+      "bytes": 2379,
+      "sha256": "b01851422fe67b2ea66a3e0f02073e8b28ebd755c06fafdfc4fa6cbfcc739cab"
+    },
+    "qwen3-8b-base-nf4.safetensors.part001": {
+      "bytes": 1610612736,
+      "sha256": "aabb0efd494c6974d171d32922e91c0660d7a2b3e912de9f941a6c0f90687541"
+    },
+    "qwen3-8b-base-nf4.safetensors.part002": {
+      "bytes": 1610612736,
+      "sha256": "e503706baae1bc8f99f52fec8526c028364038e1c38c603cf4e4213c9cd56a81"
+    },
+    "qwen3-8b-base-nf4.safetensors.part003": {
+      "bytes": 1610612736,
+      "sha256": "77693763137710c827f187709fbf68d334ddf7116b817a4a382b61e02ee717e6"
+    },
+    "qwen3-8b-base-nf4.safetensors.part004": {
+      "bytes": 1241719884,
+      "sha256": "6e75fb2c04899e4a61b45f47ff7874c7ee6edb6b42464ef4c4e90ae7a89a3330"
+    }
+  }
+}

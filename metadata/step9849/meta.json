@@ -1,0 +1,23 @@
+{
+  "step": 9849,
+  "balanced_accuracy": 0.5925925925925926,
+  "phase": "competition",
+  "epoch": 2,
+  "base": "/root/gpufree-data/ntl_20261026/models/qwen3-8b-base-nf4",
+  "layers": [
+    2,
+    4,
+    6,
+    8,
+    12,
+    16,
+    24,
+    36
+  ],
+  "keep": 36,
+  "hidden": 4096,
+  "max_len": 448,
+  "quantization": "NF4 double quantization",
+  "head": "plain",
+  "seed": 7
+}

@@ -1,0 +1,9 @@
+*.safetensors
+*.parquet
+*.npz
+*.tar.gz
+*.whl
+*.part*
+__pycache__/
+ntl-assets/
+ntl-restored/
